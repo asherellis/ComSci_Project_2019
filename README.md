@@ -3,5 +3,5 @@
 #### It will be in the Google theme colors and in the Google font, Google Sans.
 #### A few images will be displayed throughout the poem.
 #### I also put some animations that reflect the mood of the lines of the poem (based on how I imagined it).
-########
+
 #### The main file for this project is AnimatedPoetry.pde
