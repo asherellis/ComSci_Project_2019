@@ -6,4 +6,4 @@
 
 #### The main file for this project is AnimatedPoetry.pde
 
-#OPEN IN PROCESSING
+# OPEN IN PROCESSING
